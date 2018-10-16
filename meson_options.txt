@@ -1,0 +1,2 @@
+option('socket_path', type: 'string', value: '/var/run/nss_zerotier/nss_zerotier.sock')
+option('config_path_prefix', type: 'string', value: '/usr/local/etc/nss_zerotier')
